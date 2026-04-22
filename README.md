@@ -1,4 +1,4 @@
-# customer-growth-retention-analytics
+# Customer-Growth-Retention-Analytics
 This project analyzes customer lifecycle, engagement, and revenue behavior to uncover key drivers of growth and churn.  Built as a business case study, this dashboard provides actionable insights to improve retention, optimize pricing, and drive revenue.
 
 Customer Growth & Retention Intelligence Dashboard
